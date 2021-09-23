@@ -1,0 +1,27 @@
+[
+  {
+    "id": "lesson-1",
+    "title": "Hobbies",
+    "sections": ["section-1", "section-2"]
+  },
+  {
+    "id": "lesson-2",
+    "title": "Business",
+    "sections": ["section-3", "section-4"]
+  },
+  {
+    "id": "lesson-3",
+    "title": "Travelling",
+    "sections": ["section-5", "section-6"]
+  },
+  {
+    "id": "lesson-4",
+    "title": "Eating out",
+    "sections": ["section-7", "section-8"]
+  },
+  {
+    "id": "lesson-5",
+    "title": "TV shows",
+    "sections": ["section-9", "section-10"]
+  }
+]
