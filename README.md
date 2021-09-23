@@ -1,5 +1,6 @@
+# Pairing Interview
 
-What you'll need
+### What you'll need
 - Laptop
 - Ability to serve an API
 - A client that can make API requests
@@ -12,6 +13,10 @@ We want to introduce a new mobile feature that focuses on our user's progress th
 Below is a design we have provided. We would like to see you implement an API that will provide the data for the mobile application. 
 
 / *** Design ***/
+
+We have already collected the user's progress and have that stored in a JSON file `progress.json` as well as the structure of the lessons `lessons.json`. We would like you to use these data sources in your solution.
+
+The pairing session is for X hours long, but we won't spend the whole time writing code. We like to leave plenty of time at the end for you to ask us any questions. Don't feel you have to rush a solution, you will not be judged on how far you get. We would much rather you give us a solution that you are proud of and feel best displays how you approach solving a problem.
 
 ### Requirements
 
@@ -28,6 +33,3 @@ Below is a design we have provided. We would like to see you implement an API th
 
 - A completed lesson is when all of the sections belonging to a lesson have a progress score of 100
 
-We have already collected the user's progress and have that stored in a JSON file `progress.json` as well as the structure of the lessons `lessons.json`. We would like you to use these data sources in your solution.
-
-The pairing session is for X hours long, but we won't spend the whole time writing code. We like to leave plenty of time at the end for you to ask us any questions. Don't feel you have to rush a solution, you will not be judged on how far you get. We would much rather you give us a solution that you are proud of and feel best displays how you approach solving a problem.
