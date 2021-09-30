@@ -12,7 +12,7 @@ We want to introduce a new mobile feature that focuses on our user's progress th
 
 Below is a design we have provided. We would like to see you implement an API that will provide the data for the mobile application. 
 
-/ *** Design ***/
+![Design](design.png)
 
 We have already collected the user's progress and have that stored in a JSON file `progress.json` as well as the structure of the lessons `lessons.json`. We would like you to use these data sources in your solution.
 
