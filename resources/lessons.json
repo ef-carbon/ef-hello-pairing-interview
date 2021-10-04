@@ -17,11 +17,11 @@
   {
     "id": "4",
     "title": "Eating out",
-    "sections": ["7", "8"]
+    "sectionIds": ["7", "8"]
   },
   {
     "id": "5",
     "title": "TV shows",
-    "sections": ["9", "10"]
+    "sectionIds": ["9", "10"]
   }
 ]

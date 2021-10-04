@@ -5,6 +5,7 @@
 - Ability to serve an API
 - A client that can make API requests
 - Ability to execute automated tests
+- Ability to read data from JSON file
 
 ### Intro
 
