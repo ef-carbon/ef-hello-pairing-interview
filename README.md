@@ -8,7 +8,7 @@
 
 ### Intro
 
-We want to introduce a new mobile feature that focuses on our user's progress through lessons. Currently, our users are unable to see how far they have progressed through the lessons we offer. By displaying their progress we hope to improve engagement, by motivating users to complete more lessons. We also want to introduce a leaderboard to be able to some friendly competition between our users.
+We want to introduce a new mobile feature that focuses on our user's progress through lessons. Currently, our users are unable to see how far they have progressed through the lessons we offer. By displaying their progress we hope to improve engagement, by motivating users to complete more lessons. We also want to include a leaderboard, so that we can introduce some friendly competition between our users.
 
 Below is a design we have provided. We would like to see you implement an API that will provide the data for the mobile application. 
 
